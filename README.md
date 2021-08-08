@@ -1,2 +1,2 @@
 # quiz-web
-Mini project using HTML,CSS and JS . A quiz qith timer.
+Mini project using HTML,CSS and JS . A quiz with timer.
